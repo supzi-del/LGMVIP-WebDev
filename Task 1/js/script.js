@@ -49,7 +49,7 @@ btns.forEach((btn, i) => {
     });
 });
 
-// videos section
+// videos section starts here
 $('.owl-carousel').owlCarousel({
     stagePadding: 200,
     loop: true,
