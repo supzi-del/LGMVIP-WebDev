@@ -1,5 +1,4 @@
-# LGMVIP-WebDev
-### Task 1 - Single page Web design
+#Single page Web design
 #### Tech Stack - 
 * HTML5
 * CSS3
